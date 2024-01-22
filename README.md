@@ -1,3 +1,3 @@
 # Simple-Calculator
-My first repository , simple calculator  which is written in python with tkinter
+My first repository , simple calculator  which is written in python with tkinter.
 Author-Sai Teja

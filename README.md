@@ -1,9 +1,12 @@
 # 🧮 Simple Calculator (Python + Tkinter)
-My first repository , simple calculator  which is written in python with tkinter.
-<br>
+
+My first repository — a simple calculator written in Python using the Tkinter GUI library.  
 This is a basic **GUI calculator application** built using **Python's Tkinter** library. It supports standard arithmetic operations such as addition, subtraction, multiplication, and division — all within a simple and intuitive interface.
+
 <br>
-Author-Kodati Sai Teja
+
+**Author**: Kodati Sai Teja
+
 ---
 
 ## 🚀 Features
@@ -20,7 +23,7 @@ Author-Kodati Sai Teja
 
 Here's how the calculator looks when running:
 
-![Simple Calculator GUI](assets/calculator.png)
+![Simple Calculator GUI](calculator.png)
 
 > The UI is built with clean button placement using the grid layout manager in Tkinter.
 

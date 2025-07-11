@@ -23,7 +23,7 @@ This is a basic **GUI calculator application** built using **Python's Tkinter** 
 
 Here's how the calculator looks when running:
 
-![Simple Calculator GUI](calculator.png)
+![Simple Calculator GUI](GUI_of_calculator.png)
 
 > The UI is built with clean button placement using the grid layout manager in Tkinter.
 
